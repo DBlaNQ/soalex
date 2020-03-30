@@ -4,7 +4,7 @@
 <main>
     <div class="wrapper">
         <div id="content">
-            <p>Welcome to the website traveler, Your journy is yet to begin. Sit here and relax while drinking bear and looking at foot pics</p>
+            <p>Welcome to the website traveler, Your journy is yet to begin. Sit here and relax while drinking beer and looking at foot pics</p>
         </div>
     </div>
 </main>
